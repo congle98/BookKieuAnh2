@@ -33,7 +33,6 @@ public class ProgrammingBook extends Book {
     public String toString() {
         return "ProgrammingBook{" +
                 "language='" + language + '\'' +
-                ", frameWork='" + frameWork + '\'' +
-                '}' +super.toString();
+                ", frameWork='" + frameWork + '\'' +super.toString();
     }
 }
